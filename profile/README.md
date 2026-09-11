@@ -1,8 +1,6 @@
-# FAVUS Labs
+**FAVUS Labs** is a European deep-tech company developing bio-inspired intelligence for autonomous and distributed systems.
 
-FAVUS Labs is a European deep-tech company developing bio-inspired intelligence for autonomous and distributed systems.
-
-Our thesis is simple: nature has already refined many of the coordination mechanisms modern infrastructure is still working toward - swarm coordination, resource-efficient pathfinding, decentralized decision-making. We study these mechanisms and translate them into algorithmic frameworks for real-world autonomy, coordination, and infrastructure applications.
+Our thesis is simple: nature has already refined many of the coordination mechanisms modern infrastructure is still working toward, such as swarm coordination, resource-efficient pathfinding and decentralized decision-making. We study these mechanisms and translate them into algorithmic frameworks for real-world autonomy, coordination, and infrastructure applications.
 
 Our work is guided by a few core principles:
 

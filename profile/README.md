@@ -5,8 +5,8 @@ Our thesis: nature has already refined coordination mechanisms such as swarm beh
 Our work is guided by a few core principles:
 
 - **Privacy & security by design:** data minimization, confidentiality and integrity are built into the architecture from the start
-- **EU-first:** engineered for European standards and sovereignty from day one
 - **Deliberate over fast:** we favor fewer things done well over speed at the cost of quality
+- **EU-first:** engineered for European standards and sovereignty from day one
 
 The majority of our work remains closed; we selectively open-source tools we use internally and consider worth sharing.
 

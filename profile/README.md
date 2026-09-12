@@ -1,17 +1,15 @@
-**FAVUS Labs** is a European deep-tech company developing bio-inspired intelligence for autonomous and distributed systems.
+**FAVUS Labs** is the engineering arm of Favus, a European deep-tech company developing bio-inspired intelligence for autonomous and distributed systems.
 
-Our thesis is simple: nature has already refined many of the coordination mechanisms modern infrastructure is still working toward, such as swarm coordination, resource-efficient pathfinding and decentralized decision-making. We study these mechanisms and translate them into algorithmic frameworks for real-world autonomy, coordination, and infrastructure applications.
+Our thesis: nature has already refined coordination mechanisms such as swarm behavior, efficient pathfinding and decentralized decision-making, which we study and translate into algorithmic frameworks for real-world autonomy and infrastructure. In practice, that means systems built to operate autonomously at the edge and stay reliable when connectivity or infrastructure cannot be guaranteed, with data integrity that holds up to forensic scrutiny and an architecture designed to integrate into systems that are already in place.
 
 Our work is guided by a few core principles:
 
-- **Security by design:** confidentiality and integrity are built into the architecture, not bolted on afterward
+- **Privacy & security by design:** data minimization, confidentiality and integrity are built into the architecture from the start
 - **EU-first:** engineered for European standards and sovereignty from day one
 - **Deliberate over fast:** we favor fewer things done well over speed at the cost of quality
 
-We are early-stage and building selectively in the open, starting with the project below.
+The majority of our work remains closed; we selectively open-source tools we use internally and consider worth sharing.
 
-## Projects
+### Projects
 
-**Tessera** - our first public project, spanning two repositories: the core project and an accompanying Grafana plugin. Further details will follow as each repository matures.
-
-Additional repositories will be published over time.
+**Tessera**, our first public release, is available as a standalone core and an accompanying Grafana plugin. More to come as each matures.

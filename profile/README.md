@@ -12,4 +12,6 @@ The majority of our work remains closed; we selectively open-source tools we use
 
 ### Projects
 
-**Tessera**, our first public release, is available as a standalone core and an accompanying Grafana plugin. More to come as each matures.
+**[TESSERA](https://github.com/favuslabs/tessera-spec)**, our first public release, is available as a specification, with a standalone core and an accompanying Grafana plugin following shortly.
+
+**[VIDIMUS](https://github.com/favuslabs/vidimus-spec)**, our second, is a specification for a document format built for decades of archival and legal durability - published as a specification first, same as TESSERA, with its reference implementation on a matching timeline.

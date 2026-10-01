@@ -1,10 +1,10 @@
-**FAVUS Labs** is the engineering arm of Favus, a European deep-tech company developing bio-inspired intelligence for autonomous and distributed systems.
+**FAVUS Labs** is the engineering arm of Favus, a European deep-tech venture developing bio-inspired, autonomous systems for infrastructure and security.
 
-Our thesis: nature has already refined coordination mechanisms such as swarm behavior, efficient pathfinding and decentralized decision-making, which we study and translate into algorithmic frameworks for real-world autonomy and infrastructure. In practice, that means systems built to operate autonomously at the edge and stay reliable when connectivity or infrastructure cannot be guaranteed, with data integrity that holds up to forensic scrutiny and an architecture designed to integrate into systems that are already in place.
+Our thesis: nature has already refined coordination mechanisms such as swarm behavior, efficient pathfinding and decentralized decision-making, which we study and translate into algorithmic frameworks for real-world autonomy and infrastructure. In practice, that means systems designed to operate autonomously at the edge and to remain dependable when connectivity or infrastructure cannot be guaranteed, with data integrity designed to withstand forensic scrutiny and an architecture designed to integrate into systems that are already in place.
 
 Our work is guided by a few core principles:
 
-- **Privacy & security by design:** data minimization, confidentiality and integrity are built into the architecture from the start
+- **Privacy & security by design:** data minimization, confidentiality and integrity are part of the architecture from the start
 - **Deliberate over fast:** we favor fewer things done well over speed at the cost of quality
 - **EU-first:** engineered for European standards and sovereignty from day one
 
@@ -12,6 +12,6 @@ The majority of our work remains closed; we selectively open-source tools we use
 
 ### Projects
 
-**[TESSERA](https://github.com/favuslabs/tessera-spec)**, our first public release, is available as a specification, with a standalone core and an accompanying Grafana plugin following shortly.
+**[TESSERA](https://github.com/favuslabs/tessera-spec)**, our first public release, is available as a specification; a standalone core and an accompanying Grafana plugin are planned.
 
-**[VIDIMUS](https://github.com/favuslabs/vidimus-spec)**, our second, is a specification for a document format built for decades of archival and legal durability - published as a specification first, same as TESSERA, with its reference implementation on a matching timeline.
+**[VIDIMUS](https://github.com/favuslabs/vidimus-spec)**, our second, is a specification for a document format built for decades of archival and legal durability - published as a specification first, same as TESSERA; a reference implementation is planned.
